@@ -1,0 +1,28 @@
+ body{
+    background-color: rgb(75, 72, 72);
+ }
+ img{
+    width : 500;
+    height : 500;
+
+ }
+
+#scroll_to_top {
+   position: fixed;
+   width: 25px;
+   height: 25px;
+   bottom: 50px;
+   right: 30px;
+ }
+ #scroll_to_top img {
+   width: 25px;
+ }
+ button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: red;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}

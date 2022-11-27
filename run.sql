@@ -1,0 +1,1 @@
+SELECT * FROM Dessin WHERE Auteur = 'Akkranne';
